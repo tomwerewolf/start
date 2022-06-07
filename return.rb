@@ -20,3 +20,4 @@ puts cube(2)
 puts cube2(5)
 puts cube3(4)
 puts cube4(3)[1]
+puts cube(5)
